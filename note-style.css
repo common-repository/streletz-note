@@ -1,0 +1,21 @@
+.note{
+    border-radius:10px;
+    box-shadow: 1px 3px 29px 1px #000000;
+    margin:15px;
+    padding:15px;
+}
+.note-wrapper{
+    background-color: #a6cefd;
+}
+.note.important-wrapper{
+    background-color: gold /*#ffac01*/;
+}
+.tip-wrapper{
+    background-color: greenyellow;
+}
+.note.warning-wrapper{
+    background-color: #fd9491; 
+}
+.note.help-wrapper{
+    background-color: #71ba80;
+}
